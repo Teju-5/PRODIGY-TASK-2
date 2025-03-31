@@ -1,4 +1,3 @@
-# PRODIGY-TASK-2
 # Titanic Dataset - Data Cleaning & EDA  
 
 ## Overview  
